@@ -1301,7 +1301,7 @@
   },
   {
     "description":"Java Source File",
-    "mime-type":"text/x-java-source,java",
+    "mime-type":"text/x-java-source",
     "extension":".java"
   },
   {
@@ -1328,6 +1328,11 @@
     "description":"JPEG Image",
     "mime-type":"image/jpeg",
     "extension":".jpeg, .jpg"
+  },
+  {
+    "description":"JPEG Image",
+    "mime-type":"image/jpeg",
+    "extension":".jpg"
   },
   {
     "description":"JPGVideo",
@@ -2687,7 +2692,7 @@
   {
     "description":"RSS - Really Simple Syndication",
     "mime-type":"application/rss+xml",
-    "extension":".rss, .xml"
+    "extension":".rss"
   },
   {
     "description":"S Hexdump Format",
@@ -3191,7 +3196,7 @@
   },
   {
     "description":"Voice Browser Call Control",
-    "mime-type":"application/ccxml+xml,",
+    "mime-type":"application/ccxml+xml",
     "extension":".ccxml"
   },
   {
