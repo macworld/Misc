@@ -1327,7 +1327,7 @@
   {
     "description":"JPEG Image",
     "mime-type":"image/jpeg",
-    "extension":".jpeg, .jpg"
+    "extension":".jpeg"
   },
   {
     "description":"JPEG Image",
